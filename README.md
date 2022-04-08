@@ -1,4 +1,4 @@
-# dataScience
+# Data Science
 Repository for practicing data science techniques.
 
 this repository is divided into **[data](https://github.com/EmersonVeras/dataScience/tree/main/data)** and **[notebooks](https://github.com/EmersonVeras/dataScience/tree/main/notebooks)**
